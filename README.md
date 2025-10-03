@@ -14,7 +14,7 @@ It recommends movies similar to the one you search for, using cosine similarity 
 
 ## Demo
 [View the app on Render]
- Checkout:https://movie-recommandation-2.onrender.com/
+ Checkout:https://janakbhatta898-movie-recommandation-app-aeukrf.streamlit.app/
  
  #feature 
  -recommand movie using cosine similarity
